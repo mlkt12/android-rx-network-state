@@ -1,2 +1,2 @@
 # android-rx-network-state
-How to check network state use RxJava in Android
+#### How to check actual network state use RxJava in Android
